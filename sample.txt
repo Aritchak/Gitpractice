@@ -2,4 +2,8 @@
 Welcome to Git!!Adding new lineAdded third line.
 =======
 Welcome to Git!!This line is changed now.
+<<<<<<< HEAD
 >>>>>>> b10bcf06ba546f5b1c725248b581ce13396873c0
+=======
+Now this change is done from github.
+>>>>>>> ab9d92149fbc8217fd8b9b39fbb0d1cf27117dac
