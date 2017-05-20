@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Welcome to Git!!Adding new lineAdded third line.
+=======
+Welcome to Git!!This line is changed now.
+>>>>>>> b10bcf06ba546f5b1c725248b581ce13396873c0
